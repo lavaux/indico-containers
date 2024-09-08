@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [master]
+    branches: [master,lavaux/indico_3.3_container]
 
 jobs:
   test:
